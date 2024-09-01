@@ -1,0 +1,6 @@
+Start
+INPUT n1 AND n2
+For n 1-100
+If n1%n AND n2%n ==0
+Print "n"
+End

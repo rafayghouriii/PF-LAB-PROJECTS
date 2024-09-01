@@ -1,0 +1,9 @@
+Start
+Input A, B, C
+If A<B AND A<C
+Print "A is smallest"
+else if B<A AND B<C
+Print "B is smallest"
+Else
+Print "C is smallest"
+END

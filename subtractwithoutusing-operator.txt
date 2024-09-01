@@ -1,0 +1,6 @@
+Start
+Input A, and B
+Calculate binary complement of B
+TwoCompB= CompB+1
+Result= A+TwoCompB
+Print "Result"

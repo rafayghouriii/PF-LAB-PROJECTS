@@ -1,0 +1,12 @@
+Start
+Input n1 AND n2
+Input operator (* for multiplication AND / for division)
+If operator *
+result=n1*n2
+Print result
+Elseif operator /
+If n2 is not 0
+result= n1/n2
+Print result
+Else Print Error
+End

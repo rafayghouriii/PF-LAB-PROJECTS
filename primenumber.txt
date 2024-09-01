@@ -1,0 +1,14 @@
+Start
+Input Num
+If Num<=1
+Print "Not a Prime Number"
+Elseif Num==2
+Print "Is a Prime Number"
+Elseif Num % 2==0
+Print "Not a Prime Number"
+Calculate square root of Num to find Max Divisor MD
+For i from 3 to MD
+If Num % i= 0
+Print "Num is divisible by i, Not a Prime Number"
+Else Print "Num not divisible by any number except 1 and Num, Is a Prime Number"
+End

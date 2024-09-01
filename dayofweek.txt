@@ -1,0 +1,21 @@
+Start
+Input Num
+If Num >= 365 AND Num<= 1
+Print "Invalid Num"
+Else
+Day= Num % 7
+If Day=0
+Print "Sunday"
+Elseif Day=1
+Print "Monday"
+Elseif Day=2
+Print "Tuesday"
+Elseif Day=3
+Print "Wednesday"
+Elseif Day=4
+Print "Thursday"
+Elseif Day=5
+Print "Friday"
+Elseif Day=6
+Print "Saturday"
+End
